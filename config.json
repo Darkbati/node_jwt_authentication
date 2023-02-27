@@ -1,0 +1,6 @@
+﻿{
+    "secret": "worldpop!1",
+    "token_expire_time": "5m",
+    "refresh_expire_time": "12h",
+    "redis_token_expired": 25200 
+}
